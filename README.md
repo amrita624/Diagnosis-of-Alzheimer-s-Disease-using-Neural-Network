@@ -1,1 +1,3 @@
 # Diagnosis-of-Alzheimer-s-Disease-using-Neural-Network
+
+We used a dataset consisting of brain MRI images of people suffering from Alzheimer's disease as well as healthy individuals. The images are classified into 4 categories - Very Mildly Demented, Mildly Demented, Demented and Non Demented. A neural netowrk with two convolutional layers, two max pooling layers, and two fully connected layers was trained to classify the images and it's accuracy was evaluated via metrics like R2 score and confusion matrix. The project concludes by presenting the results of the model's performance and discussing its potential applications in assisting doctors in the diagnosis of Alzheimer's disease.
